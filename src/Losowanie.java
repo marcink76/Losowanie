@@ -27,5 +27,7 @@ public class Losowanie {
             WriteToBase.writeToBase(man[number]);
         }
 
+        ReadFromBase.readFromBase();
+
     }
 }
